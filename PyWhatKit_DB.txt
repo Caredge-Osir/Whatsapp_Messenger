@@ -1,0 +1,60 @@
+Date: 20/5/2025
+Time: 18:22
+Phone Number: +254745511354
+Message: Hello, this is a test message from Python!
+--------------------
+Date: 20/5/2025
+Time: 18:28
+Phone Number: +254 745 511354
+Message: Hello, this is a test message from Python!
+--------------------
+Date: 20/5/2025
+Time: 18:35
+Phone Number: +254 745 511354
+Message: Hello, this is a test message from Python!
+--------------------
+Date: 20/5/2025
+Time: 18:42
+Phone Number: +254745511354
+Message: Hello, this is a test message from Python!
+--------------------
+Date: 20/5/2025
+Time: 18:45
+Phone Number: +254745511354
+Message: Hello, this is Sululia!
+--------------------
+Date: 22/5/2025
+Time: 14:33
+Phone Number: +254111888517
+Message: Hello, this is Sululia!
+--------------------
+Date: 22/5/2025
+Time: 14:34
+Phone Number: +254111888517
+Message: Hello, this is Sululia!
+--------------------
+Date: 22/5/2025
+Time: 14:35
+Phone Number: +254111888517
+Message: Hello, this is Sululia!
+--------------------
+Date: 22/5/2025
+Time: 14:35
+Phone Number: +254111888517
+Message: Hello, this is Sululia!
+--------------------
+Date: 23/5/2025
+Time: 9:20
+Phone Number: +254111888517
+Message: Hello, this is Sululia!
+--------------------
+Date: 23/5/2025
+Time: 9:22
+Phone Number: +254111888517
+Message: Uko na swimming Costume?
+--------------------
+Date: 23/5/2025
+Time: 9:27
+Phone Number: +254111888517
+Message: Dijkstra's algorithm.com
+--------------------
