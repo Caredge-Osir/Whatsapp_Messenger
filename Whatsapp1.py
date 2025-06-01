@@ -1,7 +1,9 @@
 import pywhatkit as pwk
 
-phone_number = "+254111888517"
-message = "Dijkstra's algorithm.com"
+##Define the recipient's phone number (With country code) and the message
+phone_number = "+254 745 511354"
+message = "Hello, this is a test message from Python!"
 
-pwk.sendwhatmsg_instantly(phone_number, message, wait_time=20, tab_close=True, close_time=5)
- 
+##Send the message using pywhatkit
+pwk.sendwhatmsg(phone_number, message,18,36, wait_time=10, tab_close=True, close_time=3)    
+
